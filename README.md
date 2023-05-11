@@ -13,3 +13,6 @@ Supplementary materials for Astroparticle Physics meets Data Science Workshop
 - `mlp_tf.py`: TensorFlow implementation of a multi-layer perceptron
 - `mlp_torch.py`: PyTorch implementation of a multi-layer perceptron
 - `cnn_tf.py`: TensorFlow implementation of a convolutional neural network
+- `cnn_tf.ipynb`: Jupyter notebook with a TensorFlow implementation of a convolutional neural network
+- `mlp_torch.ipynb`: Jupyter notebook with a PyTorch implementation of a multi-layer perceptron
+- `mlp_torch.ipynb`: Jupyter notebook with a PyTorch implementation of a convolutional neural network
