@@ -1,9 +1,8 @@
 # Multilayer perceptron made with TensorFlow
-import numpy as np
 import seaborn as sns
-from matplotlib import pyplot as plt
 import tensorflow as tf
 from keras import layers
+from matplotlib import pyplot as plt
 
 from utils import load_data, evalute_predictions
 

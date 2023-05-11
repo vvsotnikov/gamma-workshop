@@ -1,9 +1,9 @@
 # Multilayer perceptron made with TensorFlow
 import numpy as np
 import seaborn as sns
-from matplotlib import pyplot as plt
 import tensorflow as tf
 from keras import layers
+from matplotlib import pyplot as plt
 
 from utils import load_data, evalute_predictions
 
@@ -21,7 +21,6 @@ for device in physical_devices:
 matrices_train = np.concatenate([matrices_train, features_train[:, [5, 6]]], axis=1)
 matrices_test = np.concatenate([matrices_test, features_test[:, [5, 6]]], axis=1)
 matrices_val = np.concatenate([matrices_val, features_val[:, [5, 6]]], axis=1)
-
 
 mean = matrices_train.mean(axis=0)
 std = matrices_train.std(axis=0)
