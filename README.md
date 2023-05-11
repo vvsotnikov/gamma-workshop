@@ -1,5 +1,5 @@
 # gamma-workshop
-Supplementary materials for Astroparticle Physics meets Data Science Workshop
+Supplementary materials for [Astroparticle Physics meets Data Science Workshop](https://lp.jetbrains.com/astroparticle-physics-meets-data-science-workshop/)
 
 ### Getting started
 1. Clone this repository
