@@ -14,7 +14,7 @@ for device in physical_devices:
 (matrices_train, matrices_test, matrices_val,
  class_train, class_test, class_val,
  features_train, features_test, features_val, cutoffs,
- true_features_train, true_features_test, true_features_val) = load_data(mode='combined_gm_pr',
+ true_features_train, true_features_test, true_features_val) = load_data(mode='qgs_gm_pr_v2',
                                                                          test_share=0.2,
                                                                          val_share=0.2)
 
