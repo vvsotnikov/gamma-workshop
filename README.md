@@ -9,6 +9,7 @@ Supplementary materials for [Astroparticle Physics meets Data Science Workshop](
    2. To use PyTorch models: `pip install torch torchvision numpy scipy seaborn`
 
 ### File structure
+- `eda.ipynb`: Jupyter notebook with exploratory data analysis
 - `utils.py`: Utility functions for loading and preprocessing the data, as well as for printing the results
 - `mlp_tf.py`: TensorFlow implementation of a multi-layer perceptron
 - `mlp_torch.py`: PyTorch implementation of a multi-layer perceptron
